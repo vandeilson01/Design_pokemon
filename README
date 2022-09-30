@@ -1,0 +1,27 @@
+<h1 align="center"> 
+Pokémon 🚀 
+</h1>
+
+
+## :hammer: Funcionalidades do projeto
+
+ Este projeto é um jogo de de adivinha simples na linguagem JavaScript.
+
+
+## 📁 Acesso ao projeto
+
+**Baixar projeto por GIT**
+
+```
+$ git init
+
+$ git remote add origin https://github.com/vandeilson01/Design_pokemon.git
+
+$ git pull origin master
+```
+
+
+<h3>Telas</h3>
+
+<img src="">
+
