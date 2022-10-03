@@ -21,7 +21,7 @@ $ git pull origin master
 ```
 
  
-<h3>Telas</h3>
+<h3>Tela</h3>
 
 <img src="https://user-images.githubusercontent.com/60020510/193555130-354c5731-42f3-447f-bc6e-c1f4e3f0f7d3.gif">
 
